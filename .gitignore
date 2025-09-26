@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+python_challenge/Lib/
+python_challenge/Scripts/
+python_challenge/Include/
+python_challenge/pyvenv.cfg
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
